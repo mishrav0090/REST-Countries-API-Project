@@ -41,5 +41,5 @@ A responsive and dynamic web application built with React.js and Tailwind CSS th
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/rest-countries-api-project.git
+git clone https://github.com/mishrav0090/rest-countries-api-project.git
 cd rest-countries-api-project
